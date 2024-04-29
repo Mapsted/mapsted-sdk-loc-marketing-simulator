@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		g+5qO0r3KyEJpJEcMNG2L//R3Lo=
+		0CIEC0bws8m4KONVyEILIM9jzUg=
 		</data>
 		<key>CampaignCreativeCollectionCell.nib</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qrMHk9px1tzWFV/g/AsJQpcAUW4=
+		V9gO/nSGdBTH4hvFv+MK5pj0It0=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		efjRis/fx52IC6RIHusoSzKZtCQ=
+		0ihWg1ckclQjnFhatEEVt2/VhVM=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Z0Vrfj7QLlv33afeDrXWIi+EBL4=
+		9LpVHUqzOjyE5Ogw7nfIbG5NOP0=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xOGMD8VhvojoRV4EGYUF7ViNCao=
+		W1uvrqc95o2Y9La0mWkoIg9IjzM=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2+6y4P/cSDmv/0LJ+vasmuBMe9c=
+		0zq7TeLAdWLplLdP+V9xYJrVUHk=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xOGMD8VhvojoRV4EGYUF7ViNCao=
+		W1uvrqc95o2Y9La0mWkoIg9IjzM=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -82,11 +82,15 @@
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FwKpEf5oNHdQISRsebRy2r0fNZM=
+		y0gF81gKtIepBRgKTOVDmgjC/gU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		gSvtd0OV3w01Prnuv8v2H/HMcWE=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		h7gfpCU7VnoS9PPi5idzioIPxKA=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -203,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			piNypNM/3l94kD/QbKut56aqujZ+VApmDJlSyULFYy4=
+			SMlZT51mNfX9HIwamsMcx7LJuWTLlp0kOfxNSO6gIC8=
 			</data>
 		</dict>
 		<key>CampaignCreativeCollectionCell.nib</key>
@@ -252,21 +256,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ELB769+VILwvu5LVPri7/2hxhBBfrApYPdOWfa/yYsQ=
+			3XtDc1gpfDtisUyhfN8wosioJQGi8k1TdsLgEC5UShk=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DFu31Oz0y4a+O97dzI64qeJe2RtACYaB1EJ+PUr1RAg=
+			dnoAGKMIH4r1WpqC21yhh3AeGzjR6nyQD3PJZClCSss=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jZB30N9kGBq83FtZ1+6rQqI5oNs0hAe5X2YPmMqM8lc=
+			MBx7HdFvJ5VSt7kONWSlQR/OEzgSzgIZz8MXSlAmCN8=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -294,14 +298,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rt/s0JwbELcwvR5D4xc3IAMhW58DQYTerNRYwiCS5o0=
+			j1blpTcdhW7vLZUwIUu4z9X/E5HtPywO8TOTJiYrOnM=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jZB30N9kGBq83FtZ1+6rQqI5oNs0hAe5X2YPmMqM8lc=
+			MBx7HdFvJ5VSt7kONWSlQR/OEzgSzgIZz8MXSlAmCN8=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -329,7 +333,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9wO0sfNR0hjCG319Cxarby3lrKPCVHHv0/3vutKGu4Y=
+			4vR3ibSIexpZjOB4oHTBvuOznC1pRHeuoPBxpuSUSQw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -337,6 +341,13 @@
 			<key>hash2</key>
 			<data>
 			+BYjis/OOyPCYeJfsCUmNSUx12d+gE6ZDduyaaoOzGo=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Aefzo8DbdP0fe+3qLfUyKM1ir/HulI3x0GPoDtjobeo=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
