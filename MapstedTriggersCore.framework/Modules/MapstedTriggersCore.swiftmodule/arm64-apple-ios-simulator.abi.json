@@ -11386,105 +11386,105 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 10,
       "value": "\"NAVIGATE\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 9,
       "value": "\"WEBSITE\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 10,
       "value": "\"NAVIGATE\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 9,
       "value": "\"WEBSITE\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/WebViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/WebViewController.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 17,
       "value": "\"MapstedTriggersCore.WebViewController\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "Array",
       "offset": 378,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 694,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1596,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1632,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1674,
       "length": 5,
       "value": "0.001"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "StringLiteral",
       "offset": 1700,
       "length": 10,
       "value": "\"progress\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-etnyqzwbhdhjhahkemrfyuxpbdsr\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Debug-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/poojatrivedi\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-bhgerfhnvorzacdlckjemdjakldo\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Debug-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 721,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-etnyqzwbhdhjhahkemrfyuxpbdsr\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Debug-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/poojatrivedi\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-bhgerfhnvorzacdlckjemdjakldo\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Debug-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 864,
       "length": 19,
       "value": "\"default_big_image\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-etnyqzwbhdhjhahkemrfyuxpbdsr\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Debug-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/poojatrivedi\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-bhgerfhnvorzacdlckjemdjakldo\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Debug-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1012,
       "length": 12,
