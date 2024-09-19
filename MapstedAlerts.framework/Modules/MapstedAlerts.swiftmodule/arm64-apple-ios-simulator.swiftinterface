@@ -359,6 +359,9 @@ public protocol AlertScheduleEventProtocol : AnyObject {
   func handleEventBeginFor(alert: MapstedAlerts.AlertSearchable)
   func handleEventEndFor(alert: MapstedAlerts.AlertSearchable)
 }
+public struct AlertAndDate {
+  public init(alert: MapstedAlerts.AlertSearchable, date: Foundation.Date)
+}
 public protocol AlertSchedulerInterface {
   func startProcessingAlertsFor(propertyId: Swift.Int, delegate: any MapstedAlerts.AlertScheduleEventProtocol)
   func stopProcessingAlertsFor(propertyId: Swift.Int)
