@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Dib4OIyowGapIt/4Pc5WvxCGjYc=
+		lwB204bE5LqHxsYi4vEZdinuSpY=
 		</data>
 		<key>Headers/MapstedTriggersCore-Swift.h</key>
 		<data>
-		Y+sc/YyvEbau8hTzyybNMgNdwtU=
+		Bw4Eh/CyElfV3d7JC0cYS3KsAhs=
 		</data>
 		<key>Headers/MapstedTriggersCore.h</key>
 		<data>
@@ -22,55 +22,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wXTUb0q3Yn0OBXwWf3NDtQH63Ko=
+		6NpYNAPT6zkuVKV+CoDavATa4XE=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		kmdeU64alqvHQ5ODkQAHEO5WnaI=
+		3iQF+onJ4aWbCKSqigZLRhaM9Zc=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		6KdtpZ2fOxhDWtYyNM9tdlsaW1g=
+		kviEgTgpoBJ954RhxiCWd4VbIHg=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		07/U5hwBJBSO1Qe4JlmCTLkrATE=
+		XqP6v3P5zFuReo9xjyjSJ8r7lUo=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Tl8vOybeK6Rr1Ls4bM7x9ktWevc=
+		zTx2Fa/X2CGNgGW/2QkRLyqqDHk=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xE+PAtyl5a7jt/TXsCVoSiXRQnE=
+		VIfstrjxQAM6XZPOWJ03QRWuiCQ=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kA4oaew85g8Z2QBoWgj3pdFWsSw=
+		nNrtCFi8VxKyJcS/y7aV+cEQ+PM=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6TuFxTt7Vdy9kyDs2Rk759uWzUM=
+		de8+51h0TDa9wzl744tCNpRFN9I=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		07/U5hwBJBSO1Qe4JlmCTLkrATE=
+		XqP6v3P5zFuReo9xjyjSJ8r7lUo=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		h8UKubqTn8mc34aG6aulYkFX/kE=
+		mj846BVulYQ4QYlHPK6ZLJ+WEh4=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		19Vih4a2mpsOP2/DlnedCSWqNI8=
+		vGQV50evOmzj8YCmTMlxQMWdWEc=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bpwKF245U86Mevwy4uMyKbIDius=
+		YoCBGVS7ZYOPePiwLTDOdJDUJ2I=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4VkwLN2qsKnCDhJ9CIx3+YztMtU=
+		dcbhEO0oqzzuzAXEZ2IsInGIsd8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>WebViewController.nib</key>
 		<data>
-		LVZcYaTVVTdQ9VUvFOxglp2kUKo=
+		yMdRZ5ZDwas+9G1FIHCjo1MScCM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QXkzXqVl8wctNiUyXnJSbUC9JRi4R5zSlQdsyURUqNk=
+			ZCoWIJHD8YGGA8zy1QJpSmsPl1bLO5Exa7ko3Uad5HQ=
 			</data>
 		</dict>
 		<key>Headers/MapstedTriggersCore-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LBTKC2jJNPzTERkaMGdxszIee6sPajv7bzsNuWqnN/A=
+			KZGb8rJ9nUCBKAis1Ln3S2tdxk8GH6T5lu4bVZNNJAM=
 			</data>
 		</dict>
 		<key>Headers/MapstedTriggersCore.h</key>
@@ -135,84 +135,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0poVbEMrxncAIbj3LZcviFcSluGw/hIE2eHpaV7QsDo=
+			VDUmlIb9EuIrFZGG0hKLqsXTWBzGFl8iD90spegH4yQ=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Q7SHEBIp7hI75axoTNkrRSrPr9uTDDAK29B7eRP/DM=
+			hi7Ts8EwXIg/CY6Cn5ZY+OpGzxPoPuT3XQkJvbTecwU=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mxp6wluSNLnObxqhH1PuYb7ywn2gLwt7gA62RPGCeB8=
+			qhA3Fw4kIeOmqftpPMqrMjuN4/HxtB5c5OOmcUgJMlo=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQqIJbY0xbduy3hDnIailoy9blU/hfIie3eseSS3dQ8=
+			ZvmYlPgrjfBF486xGS8khX/t8n3YauyIIMpEjT0wj90=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZMQA/v8/CDNyz2ZlCLxu03LXpbFr5FOvPVOKZqQnLgc=
+			FbVbCbwnpCwO438qGwxSLBc0ToFEhAvCwO9jEmoeqQI=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HqYgA1sW9p06xrPtqQ0WKc69ppPm8lXM1BiX1i/A1ak=
+			9Sxd6JRAfDfVTJeRVYXtIHs7z/g/KHq/HGk/GOkZrnU=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LLOOxG73c9pK3P8KLRyl5EIbqm82klVtFfUyxmEks/s=
+			D2c90iB993q2Cv1EPuxrroXHI/fguvcDLEJZstGoZWM=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mxp6wluSNLnObxqhH1PuYb7ywn2gLwt7gA62RPGCeB8=
+			qhA3Fw4kIeOmqftpPMqrMjuN4/HxtB5c5OOmcUgJMlo=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWGGoXHxqiva6iBX9c3CPk9G2goimaIaKN/lalX6Yf8=
+			hBSxFEUa6J9yX5tTNDNwCizdZSaUfLwOmKfG4w91Pg0=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lcF7oikhuiNoa3j/djGAb3k/ucYA/vJc7uRUsdV9jbA=
+			0oewYIaWhgieoEFS/a3q8TVorU86RasMI9qCBma+B4Y=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zL86bRh2+tvuj1DkoON0UZS243KuJizfnIk+Axcs+7Y=
+			2wCUgEZnmoXbuW/d7J/rMXiJKFMOeAckTwuNv9xI4Ww=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ny3J1TP49lsy4wWFZBdCiLCnegiNGgWyprXOUbTDNwo=
+			LdIpCpdXsiVAzyv9txrlLXh6hNxnetf9mpyeM4Sqkdg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BuGRaIqsDvpwOGN0XLJ5sCa7Id0eJKbwNVLcubDBfIA=
+			i0CzvzBIInIuZVvZ54SW7Fzewf9e8AoKV2RWmyQGqYo=
 			</data>
 		</dict>
 	</dict>
