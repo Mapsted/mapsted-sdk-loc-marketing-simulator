@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name LocationMarketing
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name LocationMarketing
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import CoreLocation
 import DeveloperToolsSupport
 import Foundation
@@ -22,41 +22,41 @@ import os
   @objc required public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class CampaignCreativeCollectionCell : UIKit.UICollectionViewCell {
-  @_Concurrency.MainActor(unsafe) public var campaignView: LocationMarketing.CampaignCreativeView!
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func awakeFromNib()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func prepareForReuse()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class CampaignCreativeCollectionCell : UIKit.UICollectionViewCell {
+  @_Concurrency.MainActor @preconcurrency public var campaignView: LocationMarketing.CampaignCreativeView!
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func awakeFromNib()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func prepareForReuse()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class CampaignCreativeTableCell : UIKit.UITableViewCell {
-  @_Concurrency.MainActor(unsafe) public var campaignView: LocationMarketing.CampaignCreativeView!
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func awakeFromNib()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func prepareForReuse()
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class CampaignCreativeTableCell : UIKit.UITableViewCell {
+  @_Concurrency.MainActor @preconcurrency public var campaignView: LocationMarketing.CampaignCreativeView!
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func awakeFromNib()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func prepareForReuse()
   @available(iOS 3.0, *)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CampaignCreativeView : UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public var delegate: (any MapstedCore.LocationMarketingCreativeDelegate)?
-  @_Concurrency.MainActor(unsafe) public var isIndoor: Swift.Bool
-  @_Concurrency.MainActor(unsafe) public var showPropertyInfo: Swift.Bool
-  @_Concurrency.MainActor(unsafe) public var enableFavorite: Swift.Bool {
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class CampaignCreativeView : UIKit.UIView {
+  @_Concurrency.MainActor @preconcurrency public var delegate: (any MapstedCore.LocationMarketingCreativeDelegate)?
+  @_Concurrency.MainActor @preconcurrency public var isIndoor: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency public var showPropertyInfo: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency public var enableFavorite: Swift.Bool {
     get
     set
   }
-  @_Concurrency.MainActor(unsafe) public var enableShare: Swift.Bool {
+  @_Concurrency.MainActor @preconcurrency public var enableShare: Swift.Bool {
     get
     set
   }
-  @_Concurrency.MainActor(unsafe) public var navigateAction: (() -> ())?
-  @_Concurrency.MainActor(unsafe) public var campaign: MapstedCore.Campaign? {
+  @_Concurrency.MainActor @preconcurrency public var navigateAction: (() -> ())?
+  @_Concurrency.MainActor @preconcurrency public var campaign: MapstedCore.Campaign? {
     get
     set
   }
-  @_Concurrency.MainActor(unsafe) public var showingDescription: Swift.Bool
+  @_Concurrency.MainActor @preconcurrency public var showingDescription: Swift.Bool
   @objc deinit
 }
 public enum LocMarketingError : Swift.Error {
