@@ -23522,602 +23522,602 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 2116,
       "length": 13,
       "value": "\"entityZones\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RecurrenceRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RecurrenceRule.swift",
       "kind": "IntegerLiteral",
       "offset": 711,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "BooleanLiteral",
       "offset": 513,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 559,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 594,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 629,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 667,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 855,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "IntegerLiteral",
       "offset": 956,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 990,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "BooleanLiteral",
       "offset": 1028,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "StringLiteral",
       "offset": 1071,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "Array",
       "offset": 1406,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "Array",
       "offset": 1456,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "Array",
       "offset": 1499,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "Array",
       "offset": 1550,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSAlert.swift",
       "kind": "Array",
       "offset": 1615,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsDataManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsDataManager.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 13,
       "value": "\"AlertsInfo:\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 16,
       "value": "\"TIME_DEPENDENT\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 321,
       "length": 13,
       "value": "\"DEACTIVATED\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 395,
       "length": 11,
       "value": "\"ACTIVATED\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 426,
       "length": 13,
       "value": "\"DEACTIVATED\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 462,
       "length": 16,
       "value": "\"DEACTIVATE_ALL\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "Dictionary",
       "offset": 1504,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "Dictionary",
       "offset": 1572,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 29,
       "value": "\"location-marketing-category\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 1700,
       "length": 27,
       "value": "\"EMERGENCY_ALERTS_CATEGORY\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "Dictionary",
       "offset": 1778,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 1841,
       "length": 29,
       "value": "\"MapstedSerialQueueForAlerts\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "StringLiteral",
       "offset": 1953,
       "length": 33,
       "value": "\"MapstedConcurrentQueueForAlerts\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertsManager.swift",
       "kind": "BooleanLiteral",
       "offset": 10513,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/Iterators.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/Iterators.swift",
       "kind": "IntegerLiteral",
       "offset": 271,
       "length": 3,
       "value": "500"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/Iterators.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/Iterators.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 63,
       "value": "\"[RRuleSwift] rrule.js error: \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/Iterators.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/Iterators.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 682,
       "length": 20,
       "value": "\"CMSAlertsDataModel\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 743,
       "length": 20,
       "value": "\"com.mapsted.Alerts\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 851,
       "length": 22,
       "value": "\"Failed to create mom\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 1059,
       "length": 11,
       "value": "\"\/dev\/null\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2153,
       "length": 44,
       "value": "\"Data Error \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2173,
       "length": 4,
       "value": "\" with \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2196,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2764,
       "length": 20,
       "value": "\"CMSAlertsDataModel\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2828,
       "length": 20,
       "value": "\"com.mapsted.Alerts\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2924,
       "length": 6,
       "value": "\"momd\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 2956,
       "length": 33,
       "value": "\"Error loading model from bundle\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 3083,
       "length": 42,
       "value": "\"Error initializing mom from: \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 3124,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 4253,
       "length": 44,
       "value": "\"Data Error \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 4273,
       "length": 4,
       "value": "\" with \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Database\/CMSAlertsCoreDataStack.swift",
       "kind": "StringLiteral",
       "offset": 4296,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 540,
       "length": 7,
       "value": "\"Start\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 560,
       "length": 5,
       "value": "\"End\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Dictionary",
       "offset": 2159,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Dictionary",
       "offset": 2288,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Dictionary",
       "offset": 2344,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 2408,
       "length": 25,
       "value": "\"serial_queue_for_Alerts\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Dictionary",
       "offset": 2530,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2578,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2582,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2723,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "IntegerLiteral",
       "offset": 2728,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Dictionary",
       "offset": 2809,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 2828,
       "length": 17,
       "value": "\"Alert Schedule:\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Dictionary",
       "offset": 2937,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 4115,
       "length": 7,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 4121,
       "length": 23,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "StringLiteral",
       "offset": 4143,
       "length": 5,
       "value": "\" | \""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/MapstedAlertScheduleManager.swift",
       "kind": "Array",
       "offset": 4052,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Api\/AlertsApi.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Api\/AlertsApi.swift",
       "kind": "BooleanLiteral",
       "offset": 3035,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 1121,
       "length": 13,
       "value": "\"entityZones\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 1169,
       "length": 20,
       "value": "\"arbitraryLocations\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 2750,
       "length": 6,
       "value": "\"zone\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 2778,
       "length": 7,
       "value": "\"shape\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 2798,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 2817,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 4399,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/CMSEmergencyAlertInfo.swift",
       "kind": "StringLiteral",
       "offset": 4433,
       "length": 13,
       "value": "\"coordinates\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
       "kind": "IntegerLiteral",
       "offset": 368,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 22,
       "value": "\"yyyyMMdd'T'HHmmss'Z'\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
       "kind": "IntegerLiteral",
       "offset": 626,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 10,
       "value": "\"yyyyMMdd\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
       "kind": "IntegerLiteral",
       "offset": 879,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
+      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-alerts\/Alerts\/MapstedAlerts\/Model\/RRule\/RRule.swift",
       "kind": "StringLiteral",
       "offset": 917,
       "length": 30,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedAlerts-cvuhgwxmquzhcogqqhbgsvvhfsqx\/Build\/Intermediates.noindex\/MapstedAlerts.build\/Release-iphonesimulator\/MapstedAlerts.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedAlerts-bxsrdfmrfaekksdhakgeuddupyab\/Build\/Intermediates.noindex\/MapstedAlerts.build\/Release-iphonesimulator\/MapstedAlerts.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 736,
       "length": 14,
       "value": "\"alert_yellow\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedAlerts-cvuhgwxmquzhcogqqhbgsvvhfsqx\/Build\/Intermediates.noindex\/MapstedAlerts.build\/Release-iphonesimulator\/MapstedAlerts.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedAlerts-bxsrdfmrfaekksdhakgeuddupyab\/Build\/Intermediates.noindex\/MapstedAlerts.build\/Release-iphonesimulator\/MapstedAlerts.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 894,
       "length": 20,

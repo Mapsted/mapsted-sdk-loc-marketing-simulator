@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		tQ+OqV4JACDCuYAeCBALMnwBGVE=
+		ef6fVzUUFbBulIxlZQI7qtENb78=
 		</data>
 		<key>CMSAlertsDataModel.momd/CMSAlertsDataModel.mom</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>CMSAlertsDataModel.momd/VersionInfo.plist</key>
 		<data>
-		+TIyDTubuRU8SzqrTlsrt5gRGw4=
+		s7dE1QdpclPQlgLI3o8aJooZZtE=
 		</data>
 		<key>Headers/MapstedAlerts-Swift.h</key>
 		<data>
@@ -50,19 +50,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		515FzSf3SU8DMzhHmyob9X31sIM=
+		g6/Im86XMdc+jdsvOHQUD5ls7sc=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Jjr5cl2fxSmZvjztI2AMSOfetys=
+		edsx9/C6px8lxbz/1pd06yyCKXo=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		KjoQQptklsUmXd2TlY/MjInO/Gk=
+		JpAVPt1wWf1Cd5iMAYU7UoH2M84=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CCwBYFoTGUPooO5nOEh6AucANWs=
+		0ODWWMJo0CWbPclhmhMOowdi980=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gEGVaECsU2scZDr+CdUKTIeTCRg=
+		XUhEOTEvCAiDSQoYLpyza47akMI=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CCwBYFoTGUPooO5nOEh6AucANWs=
+		0ODWWMJo0CWbPclhmhMOowdi980=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+AmPDQGdeYBE0UsysKFjLK/RjuI=
+		g0RvWmAdVPRQ7cySTQaWtxh+hHs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RLZyh7dLGt9ZjzzGnqOp2AJYI8gYg9jjLauchqfaw0Y=
+			k+U/y6QszYJ18Bj5fjfbEI5PhZYC5krrrTwQ3Zdl44A=
 			</data>
 		</dict>
 		<key>CMSAlertsDataModel.momd/CMSAlertsDataModel.mom</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XAyhq3gUAxUoQXugLYgWjSXSbpi1zJL1X5icap/87M8=
+			dR5eOGfGE6ymNm1FxCn5Hfgzp59NwaZUfMcry6B7CuY=
 			</data>
 		</dict>
 		<key>Headers/MapstedAlerts-Swift.h</key>
@@ -200,21 +200,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vUYDahlEziHbYFLRDmClkp/Cqaf5kmMyFx7JGah2U0U=
+			PnvMtMYGJDZWStSg6lTUCbt45I3uYnNQ6mWI0foaP0g=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6wPpg1u9WbcsQK4KJvS8wQMtJP9zHgxI6wW5b2kMUWM=
+			XOhMr7mRUzhkSSLaYvKVr4mMvlTt6DQqYoObs4zcEWU=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R488qwreM/nziPSsYWqZU9D4rofjEapUJxIw3AOHAUU=
+			f3dgG8+8M0Jp3cZU7MFGjfApC0X4PhdSOzdcT4R5G1w=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -242,14 +242,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N13F/2VQ1/ThGFZVCMRhsP8vorbZGVhuBQTph1GgAmA=
+			CYztmJesd6qZRaMmv0FLd3cZun3HiWEx4+08d4+FzVY=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R488qwreM/nziPSsYWqZU9D4rofjEapUJxIw3AOHAUU=
+			f3dgG8+8M0Jp3cZU7MFGjfApC0X4PhdSOzdcT4R5G1w=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -277,7 +277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/SWTJLkMU1GKujMnU4GrDKipKLFrnHgfuw0B5RvWwm8=
+			hKRsAjLKHJQN84yxBMdmOD5kruvsRKdwjazFAHpOMuw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
