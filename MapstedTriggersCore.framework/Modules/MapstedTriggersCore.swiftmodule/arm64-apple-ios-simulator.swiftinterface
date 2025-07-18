@@ -41,6 +41,7 @@ public enum ActionText : Swift.String {
   @_Concurrency.MainActor @preconcurrency final public var marketingDelegate: (any MapstedTriggersCore.MarketingBannerUIDelegate)?
   @_Concurrency.MainActor @preconcurrency public static func instantiateViewController() -> MapstedTriggersCore.MarketingPageViewController?
   @_Concurrency.MainActor @preconcurrency final public func removeAlert(propertyId: Swift.Int, alertId: Swift.String)
+  @_Concurrency.MainActor @preconcurrency final public func setupFirstPage()
   @_Concurrency.MainActor @preconcurrency @objc override final public func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override final public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor @preconcurrency final public func setUpPage(creative: (any MapstedTriggersCore.TriggerCreative)?, notificationHandler: (() -> Swift.Void)? = nil, propertyId: Swift.Int? = nil, alertId: Swift.String? = nil)
@@ -114,7 +115,7 @@ public protocol AlertBannerActionDelegate {
   func showAlert(propertyId: Swift.Int, alertId: Swift.String)
   func showEmergencyAlert(alertId: Swift.String)
 }
-public protocol MarketingBannerActionDelegate {
+public protocol MarketingBannerActionDelegate : AnyObject {
   func showCampaign(campaignId: Swift.String, propertyId: Swift.Int)
   func showAlert(propertyId: Swift.Int, alertId: Swift.String)
   func showEmergencyAlert(alertId: Swift.String)
@@ -148,6 +149,9 @@ extension UIKit.UIImage {
 }
 public protocol InAppNotificationInterface {
   func processNotification(response: UserNotifications.UNNotificationResponse, window: UIKit.UIWindow?, completion: @escaping (Swift.Bool, (any Swift.Error)?) -> Swift.Void)
+}
+public protocol PushAppNotificationPayload {
+  func processNotification(response: [Swift.AnyHashable : Any], window: UIKit.UIWindow?, completion: @escaping (Swift.Bool, (any Swift.Error)?) -> Swift.Void)
 }
 extension UIKit.UIView {
   @_Concurrency.MainActor @preconcurrency public func roundCorners(corners: UIKit.UIRectCorner, radius: CoreFoundation.CGFloat)

@@ -1496,6 +1496,30 @@
           },
           {
             "kind": "Function",
+            "name": "setupFirstPage",
+            "printedName": "setupFirstPage()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19MapstedTriggersCore27MarketingPageViewControllerC010setupFirstE0yyF",
+            "mangledName": "$s19MapstedTriggersCore27MarketingPageViewControllerC010setupFirstE0yyF",
+            "moduleName": "MapstedTriggersCore",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
             "children": [
@@ -3772,6 +3796,8 @@
         "usr": "s:19MapstedTriggersCore29MarketingBannerActionDelegateP",
         "mangledName": "$s19MapstedTriggersCore29MarketingBannerActionDelegateP",
         "moduleName": "MapstedTriggersCore",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
         "declAttributes": [
           "AccessControl"
         ],
@@ -4406,6 +4432,130 @@
         "moduleName": "MapstedTriggersCore",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PushAppNotificationPayload",
+        "printedName": "PushAppNotificationPayload",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "processNotification",
+            "printedName": "processNotification(response:window:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIWindow?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIWindow",
+                    "printedName": "UIKit.UIWindow",
+                    "usr": "c:objc(cs)UIWindow"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool, (any Swift.Error)?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.Bool, (any Swift.Error)?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "(any Swift.Error)?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19MapstedTriggersCore26PushAppNotificationPayloadP07processF08response6window10completionySDys11AnyHashableVypG_So8UIWindowCSgySb_s5Error_pSgtctF",
+            "mangledName": "$s19MapstedTriggersCore26PushAppNotificationPayloadP07processF08response6window10completionySDys11AnyHashableVypG_So8UIWindowCSgySb_s5Error_pSgtctF",
+            "moduleName": "MapstedTriggersCore",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedTriggersCore.PushAppNotificationPayload>",
+            "sugared_genericSig": "<Self where Self : MapstedTriggersCore.PushAppNotificationPayload>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19MapstedTriggersCore26PushAppNotificationPayloadP",
+        "mangledName": "$s19MapstedTriggersCore26PushAppNotificationPayloadP",
+        "moduleName": "MapstedTriggersCore",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
         ],
         "conformances": [
           {
@@ -6044,224 +6194,224 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 10,
       "value": "\"NAVIGATE\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 9,
       "value": "\"WEBSITE\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "Array",
       "offset": 378,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 694,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "StringLiteral",
       "offset": 933,
       "length": 13,
       "value": "\"NotifyPopup\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "StringLiteral",
       "offset": 1088,
       "length": 18,
       "value": "\"ID_MARKETINGPAGE\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1261,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1268,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1331,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1342,
       "length": 3,
       "value": "120"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1497,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1544,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1638,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1695,
       "length": 3,
       "value": "222"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1699,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1710,
       "length": 3,
       "value": "225"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1714,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1724,
       "length": 3,
       "value": "227"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1728,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1740,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1915,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1926,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1973,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2020,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1613,
+      "offset": 1624,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1649,
+      "offset": 1660,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1691,
+      "offset": 1702,
       "length": 5,
       "value": "0.001"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1717,
+      "offset": 1728,
       "length": 10,
       "value": "\"progress\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-aniatllywiuojkgpmrsynodpamwu\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dacthwwhdoatamhaougcqyoqcznl\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 721,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-aniatllywiuojkgpmrsynodpamwu\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dacthwwhdoatamhaougcqyoqcznl\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 864,
       "length": 19,
       "value": "\"default_big_image\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-aniatllywiuojkgpmrsynodpamwu\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dacthwwhdoatamhaougcqyoqcznl\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1012,
       "length": 12,

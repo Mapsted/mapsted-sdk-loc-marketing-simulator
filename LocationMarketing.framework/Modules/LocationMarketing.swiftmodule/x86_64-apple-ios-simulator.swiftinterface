@@ -70,16 +70,26 @@ public enum LocMarketingError : Swift.Error {
     get
   }
 }
-public protocol LocMarketingApiInterface : MapstedTriggersCore.InAppNotificationInterface {
+public protocol LocMarketingApiInterface : MapstedTriggersCore.InAppNotificationInterface, MapstedTriggersCore.PushAppNotificationPayload {
   func openWebURL(parent: UIKit.UIViewController, urlString: Swift.String)
   func getCampaigns(propertyId: Swift.Int, buildingId: Swift.Int, entityId: Swift.Int) -> [MapstedCore.Campaign]?
   func fetchCampaignsForProperty(propertyId: Swift.Int, completion: (([MapstedCore.Campaign]?) -> Swift.Void)?)
   func setListener(listener: any MapstedTriggersCore.LocMarketingListener)
+  func addNotificationListener(_ listener: any MapstedTriggersCore.MarketingBannerActionDelegate)
+  func removeNotificationListener(_ listener: any MapstedTriggersCore.MarketingBannerActionDelegate)
 }
 @_hasMissingDesignatedInitializers public class LocMarketingApi {
   public static let shared: any LocationMarketing.LocMarketingApiInterface
   public static func initialize(completion: (Swift.Bool, (any Swift.Error)?) -> Swift.Void)
   public static func hasInit() -> Swift.Bool
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class ViewControllerUtils {
+  public static func topMostViewController(base: UIKit.UIViewController? = UIApplication.shared
+        .connectedScenes
+        .compactMap { $0 as? UIWindowScene }
+        .flatMap { $0.windows }
+        .first(where: { $0.isKeyWindow })?.rootViewController) -> UIKit.UIViewController?
   @objc deinit
 }
 extension MapstedCore.Creative : MapstedTriggersCore.TriggerCreative {
