@@ -6194,224 +6194,224 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 10,
       "value": "\"NAVIGATE\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/InAppNotifyViewController.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 9,
       "value": "\"WEBSITE\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "Array",
       "offset": 378,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 664,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 694,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "StringLiteral",
       "offset": 933,
       "length": 13,
       "value": "\"NotifyPopup\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "StringLiteral",
       "offset": 1088,
       "length": 18,
       "value": "\"ID_MARKETINGPAGE\""
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1261,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1268,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1331,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1342,
       "length": 3,
       "value": "120"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1497,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1544,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1638,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1695,
       "length": 3,
       "value": "222"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1699,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1710,
       "length": 3,
       "value": "225"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1714,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1724,
       "length": 3,
       "value": "227"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1728,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1740,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1915,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1926,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1973,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingPageViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2020,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1624,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1660,
       "length": 4,
       "value": "10.0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1702,
       "length": 5,
       "value": "0.001"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
+      "filePath": "\/Users\/apple\/Documents\/Release-Drop-Pin\/ios-sdk\/ios-sdk-triggers-core\/MapstedTriggersCore\/MapstedTriggersCore\/Controllers\/MarketingViewController.swift",
       "kind": "StringLiteral",
       "offset": 1728,
       "length": 10,
       "value": "\"progress\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dacthwwhdoatamhaougcqyoqcznl\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dovyixeceetkceeqohejszwzmrhs\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 721,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dacthwwhdoatamhaougcqyoqcznl\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dovyixeceetkceeqohejszwzmrhs\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 864,
       "length": 19,
       "value": "\"default_big_image\""
     },
     {
-      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dacthwwhdoatamhaougcqyoqcznl\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedTriggersCore-dovyixeceetkceeqohejszwzmrhs\/Build\/Intermediates.noindex\/MapstedTriggersCore.build\/Release-iphonesimulator\/MapstedTriggersCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1012,
       "length": 12,
