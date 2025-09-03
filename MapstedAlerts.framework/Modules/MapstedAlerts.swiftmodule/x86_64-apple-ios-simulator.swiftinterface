@@ -289,9 +289,7 @@ public protocol AlertsManagementInterface {
   func fetchActiveAlertsForProperty(id propertyId: Swift.Int) -> [MapstedAlerts.AlertSearchable]
   func fetchEmergencyAlertsForProperty(id propertyId: Swift.Int) -> [MapstedAlerts.AlertSearchable]
   func fetchEmergencyAlertById(alertId: Swift.String, completion: ((Swift.Bool) -> ())?) -> MapstedAlerts.AlertSearchable?
-  func removeNonActiveAlertsFromProperty(propertyId: Swift.Int)
   func fetchAllAlertsForProperty(id propertyId: Swift.Int) -> [MapstedAlerts.AlertSearchable]
-  func removeAllAlertsForProperty(propertyId: Swift.Int)
 }
 public struct Iterator {
   public static let endlessRecurrenceCount: Swift.Int
