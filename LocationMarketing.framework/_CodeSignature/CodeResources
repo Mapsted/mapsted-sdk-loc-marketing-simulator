@@ -34,15 +34,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LvJx9hePGuGRH+dpx868wU4DS0Q=
+		X/NHwCUu4jVa82E69t2eDcj3J5o=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		D8g04yFD1/LPw/HPo8dXoCiP23A=
+		xm/wOOuqMeb6votZSHSYrp7TD4I=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Pq/VQFjOmzNxP9IUDd86m7NNWZs=
+		AJC6oFVQvadEL6bcIB6WZGYlNxw=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nFEyeoJ7b3zf5K6cEbri3GPp+R0=
+		h29RA5Lr0lcDWdRgezjVDEPZjxc=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rCc6TmsWd2QF2cRhFoRhhBn+Wnk=
+		tUmjB6Ku4ybrwwaNKm05Gtw7e9U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -301,14 +301,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ihd3YWI0OhZItv0cucQthW3M5y8il8xJEXGn8x1lo+w=
+			NjPQ3hI+zoUQejkoP3YO9BVz/32Nk4n0HhL758pVytk=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			raSPQFyOB++b+U5YwggX8SxaVyay1jWVjeDAv/Wa/1U=
+			5edOXtrJ5pSX3Jtv8D18lqN3wf45UF6J6cQt/K5SS0c=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -343,7 +343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CeWx2zV84F66G746aTf7vw+4vtoTdxwaRN+nPjiL5kU=
+			/CTGPjD0NiExPIdIkBl/59o1IyGG4N3cGBcNIPWhOPA=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -378,7 +378,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z4Wf8xh/5qp0Vu2tvoq5bnmvU9u5xUZr5TC2upKvejA=
+			vZjyP+d6XFxCW152hLAE/zyJAtAH165ZBRJCgQlpVlM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
