@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		yzgnLAzFCcuwYo+e3RHBdQP1I2I=
+		7pUu3Ym7wVEuBmLJvSm5ywDZ4jg=
 		</data>
 		<key>Headers/MapstedTriggersCore-Swift.h</key>
 		<data>
@@ -22,15 +22,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jEIqe5PUhK3UwiGtTHds4qsk2d8=
+		dRnfzYEca5gTo3FjzK260wkNeFo=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		XrAgJ+ivKnMQ6++VJ9zL4fZjATI=
+		Ji8CEmuM9eUmDuV3R2Yk/R0jYWM=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PUDY+jEigVurm0/JT7EkEOLrFZU=
+		wYowv/XK/8G8ktg0NAsCG8K/9g0=
 		</data>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bb7qNgojwhLnsD+38aEZcipZeR9NDU4ykGXAIIVaAjk=
+			mpiylwtQ9aa1C4uymtfcj+JSwYeVNt0Wr0DlQv4QTik=
 			</data>
 		</dict>
 		<key>Headers/MapstedTriggersCore-Swift.h</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9nQYGAmltb1VadcVM/qTSwC8RqktfeVnuwhuK3pFdk=
+			15rwJcEGwcxBA4wqb+PBnHlnFc4ImEEfxSg4/+23pSA=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uyTKo0LC07TmTDD7uhW76L8DC9oIusN52CccZpiRieQ=
+			0XqMQT5nlMRoBO4IwncdpkSwQ7lPVLhVGFyNqFgBC9I=
 			</data>
 		</dict>
 		<key>Modules/MapstedTriggersCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

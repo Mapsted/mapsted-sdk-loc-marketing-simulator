@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		aA1ui28y1mBjF23P76JL8KTxYeU=
+		k6gpZOvt5QONZCJd/ZQRA17ubSg=
 		</data>
 		<key>CampaignCreativeCollectionCell.nib</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		X/NHwCUu4jVa82E69t2eDcj3J5o=
+		leBLe2wqn0sySD3N63MeQMnlods=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		xm/wOOuqMeb6votZSHSYrp7TD4I=
+		4v5NdCiXj0RVz/yn+MdgFPpya5c=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AJC6oFVQvadEL6bcIB6WZGYlNxw=
+		hxRP8cIzH5OoBDsi9TQSFqJvt2Q=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		h29RA5Lr0lcDWdRgezjVDEPZjxc=
+		g8QndYp7es45xgsGdXPlyacA1RI=
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tUmjB6Ku4ybrwwaNKm05Gtw7e9U=
+		LGKz0Pxtk0rqiZias2gLoZ+dEDM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -252,7 +252,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lND+x/NnJERS4Q+d8HbDlZ454BpDBMtiY6haDg/5z2s=
+			EbnzT7RW/LFMRe1Vifc13tRFt9cxHOlymgOmZuVZBB4=
 			</data>
 		</dict>
 		<key>CampaignCreativeCollectionCell.nib</key>
@@ -301,14 +301,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NjPQ3hI+zoUQejkoP3YO9BVz/32Nk4n0HhL758pVytk=
+			roJR7CDd1Zxc1nNIpeDBumpCfWprGZ647w5XpUvoE44=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5edOXtrJ5pSX3Jtv8D18lqN3wf45UF6J6cQt/K5SS0c=
+			1KP2oVbzmK4c6XVd2uB/xR2t3b53c5CqRW3F1dDaKts=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -343,7 +343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/CTGPjD0NiExPIdIkBl/59o1IyGG4N3cGBcNIPWhOPA=
+			8XtwlmSLEW38gtvuMn54UVcQP/ZJwtjedOEDBMDbOvo=
 			</data>
 		</dict>
 		<key>Modules/LocationMarketing.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -378,7 +378,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZjyP+d6XFxCW152hLAE/zyJAtAH165ZBRJCgQlpVlM=
+			xAMNeErlZO13MK8m3kURNooXNjcsv/mMX9LVbSYzV+o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
