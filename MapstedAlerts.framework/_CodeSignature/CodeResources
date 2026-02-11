@@ -50,15 +50,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XlClU4POOTdSEhBKRyhgCrXAlnU=
+		+GyZ7eKKGk08RfpLjPMVjDhxmHk=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		d5VDrwIpe4n/n1zCt4HQb2Cm1A0=
+		zBJ65C693fd37im0Gdc4VRemPYE=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Vp/nCiWHKjlgXvRx1/cOkml7Qk4=
+		6VKaHy0xZILgQb6c/WY2baqNW2E=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kj4JNJRs3a1J+mSrcm0sCfigLLk=
+		8A1jwyipSxh55a4jn/6VLvHWeL4=
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		h3OL+vt4GLclNQMdEi4wLKD/XtE=
+		jTJvBQbTh/Wq2q7SN79PhBVWxUE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -200,14 +200,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OMqPU/FnjiXSlriUVuXvQGy0wiObCduj+aVc7EGkIys=
+			mGl5hrwilSomSHYm/mLijU8d89RfjoTB4dxhgfCBCtQ=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iu3c3P1GkLqezyJuVlv9OGi1HEqUiJgTGj916rGmmRY=
+			0GWzraMjPe92if2HzZU+pQOivF2RDDavlU+5opp7cD0=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -242,7 +242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ROJPpGkUM++3Rr5zrbbdwLrEQNt+YwABz1eXUD6zQmA=
+			K/vM3jpUqKfzCzu1dHzdQ/pb/zaCQeHn2fu43gTbH6E=
 			</data>
 		</dict>
 		<key>Modules/MapstedAlerts.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -277,7 +277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sF/BwZsSL93LTRdy1BVWbWCv4MtuitzOqpSHwOm+ciw=
+			pVhBLLpkiibRb+nCpGRNTez7I96e/YxKHdKtz5r61eI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
